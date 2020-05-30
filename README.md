@@ -2,6 +2,6 @@
 
 Just a demo app
 
-## subtitle
+# subtitle
 
 Markdown is cool
